@@ -56,10 +56,13 @@ T test population
 ![t-test Sample vs Population](https://github.com/coralrofa/MechaCar_Statistical_Analysis/blob/main/Resources/population_ttest.PNG)
 
 
-[t-test lots]
+[Lot subset t-test](lot_subset_ttest.PNG)
+
+![Lot subset t-test](https://github.com/coralrofa/MechaCar_Statistical_Analysis/blob/main/Resources/lot_subset_ttest.png)
 
 
 ## Study Design: MechaCar vs Competition
+
 A metric to be tested is mentioned (5 pt)
 A null hypothesis or an alternative hypothesis is described (5 pt)
 A statistical test is described to test the hypothesis (5 pt)
